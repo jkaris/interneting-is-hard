@@ -1,0 +1,55 @@
+= Introduction to HTML, CSS, and JavaScript
+
+== Overview
+
+This repository contains introductory materials for learning HTML, CSS, and JavaScript. Whether you're new to web development or looking to refresh your skills, this guide will help you get started. It is based on the `Interneting Is Hard` project.
+
+== Contents
+
+1. HTML Basics
+2. CSS Fundamentals
+3. JavaScript Essentials
+4. Resources and Further Learning
+
+== 1. HTML Basics
+
+Learn the fundamentals of HTML, including:
+
+    * Structure of an HTML document
+    * HTML tags and elements
+    * Creating headings, paragraphs, lists, and links
+    * Working with images and forms
+
+To get started with HTML, open the html_basics.html file in your preferred text editor or IDE.
+
+== 2. CSS Fundamentals
+
+Explore the basics of CSS, covering:
+
+    * CSS syntax and selectors
+    * Applying styles to HTML elements
+    * Working with colors, fonts, and backgrounds
+    * Creating layouts and responsive designs
+
+To practice CSS, use the css_styles.css file provided in the repository.
+
+== 3. JavaScript Essentials
+
+Dive into essential JavaScript concepts, such as:
+
+    * Variables, data types, and operators
+    * Control structures (if statements, loops)
+    * Functions and arrays
+
+    * DOM manipulation for dynamic web content
+
+Experiment with JavaScript by editing the js_scripts.js file and see the changes in action in the index.html file.
+
+== 4. Resources and Further Learning
+
+Explore additional resources and tutorials to deepen your understanding of web development:
+
+    * link:https://internetingishard.netlify.app[Interneting Is Hard]
+    * link:https://developer.mozilla.org/en-US/docs/Learn[Mozilla Development Network docs]
+
+Happy coding!
